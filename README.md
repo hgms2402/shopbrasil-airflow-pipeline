@@ -81,7 +81,7 @@ shopbrasil-airflow-pipeline/
 ### 1. Clonar e configurar variáveis de ambiente
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/hgms2402/shopbrasil-airflow-pipeline.git
 cd shopbrasil-airflow-pipeline
 cp .env.example .env
 mkdir -p logs && chmod -R 777 logs
